@@ -1,0 +1,8 @@
+2025/02/06 13:03:30 save_log,line: 18     INFO | +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+2025/02/06 13:03:30 save_log,line: 19     INFO | Logger object created successfully..
+2025/02/06 13:03:30 save_log,line: 18     INFO | +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+2025/02/06 13:03:30 save_log,line: 19     INFO | Logger object created successfully..
+2025/02/06 13:03:30 test,line: 228     INFO | Application started. Press 'q' to exit.
+2025/02/06 13:03:31 test,line: 37     INFO | Initial state - Folders: 65, Files: 410
+2025/02/06 13:08:31 test,line: 145     INFO | Exit signal received from OpenCV window. Shutting down...
+2025/02/06 13:08:32 test,line: 245     INFO | Application has been terminated gracefully.

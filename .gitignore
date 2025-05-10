@@ -1,0 +1,13 @@
+# Ignore all files in the log directory
+logs/
+
+# Ignore all files in the face directory
+faces/
+
+# Ignore all files in the model directory
+weights/
+
+__pycache__/
+
+# Ignore all files with .json extension in any directory
+*.json

@@ -1,0 +1,74 @@
+2025/02/14 17:16:19 save_log,line: 18     INFO | +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+2025/02/14 17:16:19 save_log,line: 19     INFO | Logger object created successfully..
+2025/02/14 17:16:19 save_log,line: 18     INFO | +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+2025/02/14 17:16:19 save_log,line: 19     INFO | Logger object created successfully..
+2025/02/14 17:16:19 run,line: 76     INFO | Starting image monitor for directory: ./input_images/
+2025/02/14 17:16:19 run,line: 105     INFO | Starting image processing thread...
+2025/02/14 17:16:19 run,line: 91     INFO | New image detected: duong.jpg
+2025/02/14 17:16:19 run,line: 319     INFO | Application started. Press 'q' to exit.
+2025/02/14 17:16:19 run,line: 35     INFO | Initial state - Folders: 63, Files: 383
+2025/02/14 17:19:29 run,line: 138     INFO | Processing image: ./input_images/duong.jpg
+2025/02/14 17:19:31 run,line: 163     INFO | Processed image saved to: ./output_images/processed_duong.jpg
+2025/02/14 17:19:31 run,line: 195     INFO | Statistics saved to: ./output_images/statistics_duong.jpg.csv
+2025/02/14 17:19:36 category,line: 224     INFO | Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025/02/14 17:19:36 category,line: 224     INFO | Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025/02/14 17:19:37 run,line: 138     INFO | Processing image: ['23010441', '17:19:31 14/02/2025', 'image_processor']
+2025/02/14 17:19:37 run,line: 227    ERROR | Unexpected error in image processing thread: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imread'
+> Overload resolution failed:
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+
+2025/02/14 17:23:06 run,line: 232     INFO | Image processing thread stopped and models released.
+2025/02/14 17:23:08 run,line: 337     INFO | Application has been terminated gracefully.
+2025/02/14 17:24:02 save_log,line: 18     INFO | +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+2025/02/14 17:24:02 save_log,line: 19     INFO | Logger object created successfully..
+2025/02/14 17:24:02 save_log,line: 18     INFO | +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+2025/02/14 17:24:02 save_log,line: 19     INFO | Logger object created successfully..
+2025/02/14 17:24:02 run,line: 76     INFO | Starting image monitor for directory: ./input_images/
+2025/02/14 17:24:02 run,line: 105     INFO | Starting image processing thread...
+2025/02/14 17:24:02 run,line: 319     INFO | Application started. Press 'q' to exit.
+2025/02/14 17:24:02 run,line: 91     INFO | New image detected: duong.jpg
+2025/02/14 17:24:02 run,line: 35     INFO | Initial state - Folders: 63, Files: 383
+2025/02/14 17:25:02 save_log,line: 18     INFO | +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+2025/02/14 17:25:02 save_log,line: 19     INFO | Logger object created successfully..
+2025/02/14 17:25:06 save_log,line: 18     INFO | +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+2025/02/14 17:25:06 save_log,line: 19     INFO | Logger object created successfully..
+2025/02/14 17:25:06 runnet,line: 77     INFO | Starting image monitor for directory: ./input_images/
+2025/02/14 17:25:06 runnet,line: 116     INFO | Starting image processing thread...
+2025/02/14 17:25:06 runnet,line: 350     INFO | Application started. Press 'q' to exit.
+2025/02/14 17:25:06 runnet,line: 92     INFO | New image detected: duong.jpg
+2025/02/14 17:25:06 runnet,line: 36     INFO | Initial state - Folders: 63, Files: 383
+2025/02/14 17:26:51 save_log,line: 18     INFO | +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+2025/02/14 17:26:51 save_log,line: 19     INFO | Logger object created successfully..
+2025/02/14 17:26:54 save_log,line: 18     INFO | +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+2025/02/14 17:26:54 save_log,line: 19     INFO | Logger object created successfully..
+2025/02/14 17:26:54 runnet,line: 82     INFO | Starting image monitor for directory: ./input_images/
+2025/02/14 17:26:54 runnet,line: 113     INFO | Starting image processing thread...
+2025/02/14 17:26:54 runnet,line: 347     INFO | Application started. Press 'q' to exit.
+2025/02/14 17:26:54 runnet,line: 97     INFO | New image detected: duong.jpg
+2025/02/14 17:26:54 runnet,line: 41     INFO | Initial state - Folders: 63, Files: 383
+2025/02/14 17:29:30 runnet,line: 147     INFO | Processing image: ./input_images/duong.jpg
+2025/02/14 20:42:31 save_log,line: 18     INFO | +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+2025/02/14 20:42:31 save_log,line: 19     INFO | Logger object created successfully..
+2025/02/14 20:42:31 save_log,line: 18     INFO | +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+2025/02/14 20:42:31 save_log,line: 19     INFO | Logger object created successfully..
+2025/02/14 20:42:31 run,line: 76     INFO | Starting image monitor for directory: ./input_images/
+2025/02/14 20:42:32 run,line: 105     INFO | Starting image processing thread...
+2025/02/14 20:42:32 run,line: 91     INFO | New image detected: super_resolved_image.jpg
+2025/02/14 20:42:32 run,line: 319     INFO | Application started. Press 'q' to exit.
+2025/02/14 20:42:32 run,line: 35     INFO | Initial state - Folders: 63, Files: 383
+2025/02/14 20:47:21 run,line: 138     INFO | Processing image: ./input_images/super_resolved_image.jpg
+2025/02/14 20:47:22 run,line: 163     INFO | Processed image saved to: ./output_images/processed_super_resolved_image.jpg
+2025/02/14 20:47:22 run,line: 195     INFO | Statistics saved to: ./output_images/statistics_super_resolved_image.jpg.csv
+2025/02/14 20:47:26 category,line: 224     INFO | Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025/02/14 20:47:26 category,line: 224     INFO | Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025/02/14 20:47:26 run,line: 138     INFO | Processing image: ['23010441', '20:47:22 14/02/2025', 'image_processor']
+2025/02/14 20:47:26 run,line: 227    ERROR | Unexpected error in image processing thread: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imread'
+> Overload resolution failed:
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+
+2025/02/14 20:51:20 run,line: 232     INFO | Image processing thread stopped and models released.
+2025/02/14 20:51:23 run,line: 337     INFO | Application has been terminated gracefully.

@@ -1,0 +1,198 @@
+2025/02/27 15:36:08 save_log,line: 18     INFO | +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+2025/02/27 15:36:08 save_log,line: 19     INFO | Logger object created successfully..
+2025/02/27 15:36:08 save_log,line: 18     INFO | +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+2025/02/27 15:36:08 save_log,line: 19     INFO | Logger object created successfully..
+2025/02/27 15:36:08 run,line: 76     INFO | Starting image monitor for directory: ./input_images/
+2025/02/27 15:36:08 run,line: 91     INFO | New image detected: DSCPDC_0001_BURST20250227135749337_COVER.JPG
+2025/02/27 15:36:08 run,line: 105     INFO | Starting image processing thread...
+2025/02/27 15:36:08 run,line: 319     INFO | Application started. Press 'q' to exit.
+2025/02/27 15:36:08 run,line: 35     INFO | Initial state - Folders: 70, Files: 390
+2025/02/27 15:38:39 run,line: 138     INFO | Processing image: ./input_images/DSCPDC_0001_BURST20250227135749337_COVER.JPG
+2025/02/27 15:38:49 run,line: 163     INFO | Processed image saved to: ./output_images/processed_DSCPDC_0001_BURST20250227135749337_COVER.JPG
+2025/02/27 15:38:49 run,line: 195     INFO | Statistics saved to: ./output_images/statistics_DSCPDC_0001_BURST20250227135749337_COVER.JPG.csv
+2025/02/27 15:48:30 run,line: 232     INFO | Image processing thread stopped and models released.
+2025/02/27 15:48:33 run,line: 337     INFO | Application has been terminated gracefully.
+2025/02/27 18:00:58 save_log,line: 18     INFO | +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+2025/02/27 18:00:58 save_log,line: 19     INFO | Logger object created successfully..
+2025/02/27 18:00:58 save_log,line: 18     INFO | +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+2025/02/27 18:00:58 save_log,line: 19     INFO | Logger object created successfully..
+2025/02/27 18:00:58 run,line: 76     INFO | Starting image monitor for directory: ./input_images/
+2025/02/27 18:00:58 run,line: 105     INFO | Starting image processing thread...
+2025/02/27 18:00:58 run,line: 91     INFO | New image detected: DSC_2147.JPG
+2025/02/27 18:00:58 run,line: 319     INFO | Application started. Press 'q' to exit.
+2025/02/27 18:00:58 run,line: 35     INFO | Initial state - Folders: 13, Files: 13
+2025/02/27 18:01:09 run,line: 138     INFO | Processing image: ./input_images/DSC_2147.JPG
+2025/02/27 18:01:16 run,line: 163     INFO | Processed image saved to: ./output_images/processed_DSC_2147.JPG
+2025/02/27 18:01:16 run,line: 195     INFO | Statistics saved to: ./output_images/statistics_DSC_2147.JPG.csv
+2025/02/27 18:03:05 run,line: 232     INFO | Image processing thread stopped and models released.
+2025/02/27 18:03:10 run,line: 337     INFO | Application has been terminated gracefully.
+2025/02/27 20:51:56 save_log,line: 18     INFO | +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+2025/02/27 20:51:56 save_log,line: 19     INFO | Logger object created successfully..
+2025/02/27 20:51:56 save_log,line: 18     INFO | +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+2025/02/27 20:51:56 save_log,line: 19     INFO | Logger object created successfully..
+2025/02/27 20:51:56 run,line: 76     INFO | Starting image monitor for directory: ./input_images/
+2025/02/27 20:51:56 run,line: 91     INFO | New image detected: z6357418770111_a642541a2a2c3038dc3bfc21d9b80114.jpg
+2025/02/27 20:51:56 run,line: 105     INFO | Starting image processing thread...
+2025/02/27 20:51:56 run,line: 35     INFO | Initial state - Folders: 13, Files: 13
+2025/02/27 20:51:56 run,line: 319     INFO | Application started. Press 'q' to exit.
+2025/02/27 20:52:07 run,line: 138     INFO | Processing image: ./input_images/z6357418770111_a642541a2a2c3038dc3bfc21d9b80114.jpg
+2025/02/27 20:52:16 run,line: 163     INFO | Processed image saved to: ./output_images/processed_z6357418770111_a642541a2a2c3038dc3bfc21d9b80114.jpg
+2025/02/27 20:52:17 run,line: 195     INFO | Statistics saved to: ./output_images/statistics_z6357418770111_a642541a2a2c3038dc3bfc21d9b80114.jpg.csv
+2025/02/27 20:52:21 run,line: 232     INFO | Image processing thread stopped and models released.
+2025/02/27 20:52:21 run,line: 337     INFO | Application has been terminated gracefully.
+2025/02/27 20:52:58 save_log,line: 18     INFO | +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+2025/02/27 20:52:58 save_log,line: 19     INFO | Logger object created successfully..
+2025/02/27 20:52:58 save_log,line: 18     INFO | +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+2025/02/27 20:52:58 save_log,line: 19     INFO | Logger object created successfully..
+2025/02/27 20:52:58 run,line: 76     INFO | Starting image monitor for directory: ./input_images/
+2025/02/27 20:52:58 run,line: 105     INFO | Starting image processing thread...
+2025/02/27 20:52:58 run,line: 91     INFO | New image detected: z6357418770111_a642541a2a2c3038dc3bfc21d9b80114.jpg
+2025/02/27 20:52:58 run,line: 319     INFO | Application started. Press 'q' to exit.
+2025/02/27 20:52:58 run,line: 35     INFO | Initial state - Folders: 103, Files: 423
+2025/02/27 20:56:34 run,line: 138     INFO | Processing image: ./input_images/z6357418770111_a642541a2a2c3038dc3bfc21d9b80114.jpg
+2025/02/27 20:56:44 run,line: 163     INFO | Processed image saved to: ./output_images/processed_z6357418770111_a642541a2a2c3038dc3bfc21d9b80114.jpg
+2025/02/27 20:56:44 run,line: 195     INFO | Statistics saved to: ./output_images/statistics_z6357418770111_a642541a2a2c3038dc3bfc21d9b80114.jpg.csv
+2025/02/27 20:56:45 run,line: 138     INFO | Processing image: ['nam5', '20:56:35 27/02/2025', 'image_processor']
+2025/02/27 20:56:45 run,line: 227    ERROR | Unexpected error in image processing thread: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imread'
+> Overload resolution failed:
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+
+2025/02/27 20:56:45 run,line: 138     INFO | Processing image: ['13', '20:56:36 27/02/2025', 'image_processor']
+2025/02/27 20:56:45 run,line: 227    ERROR | Unexpected error in image processing thread: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imread'
+> Overload resolution failed:
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+
+2025/02/27 20:56:45 run,line: 138     INFO | Processing image: ['24', '20:56:38 27/02/2025', 'image_processor']
+2025/02/27 20:56:45 run,line: 227    ERROR | Unexpected error in image processing thread: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imread'
+> Overload resolution failed:
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+
+2025/02/27 21:37:52 save_log,line: 18     INFO | +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+2025/02/27 21:37:53 save_log,line: 19     INFO | Logger object created successfully..
+2025/02/27 21:37:53 save_log,line: 18     INFO | +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+2025/02/27 21:37:53 save_log,line: 19     INFO | Logger object created successfully..
+2025/02/27 21:37:53 run,line: 35     INFO | Initial state - Folders: 103, Files: 423
+2025/02/27 21:37:53 run,line: 76     INFO | Starting image monitor for directory: ./input_images/
+2025/02/27 21:37:53 run,line: 105     INFO | Starting image processing thread...
+2025/02/27 21:37:53 run,line: 91     INFO | New image detected: phai.jpg
+2025/02/27 21:37:53 run,line: 319     INFO | Application started. Press 'q' to exit.
+2025/02/27 21:42:12 run,line: 138     INFO | Processing image: ./input_images/phai.jpg
+2025/02/27 21:42:28 run,line: 163     INFO | Processed image saved to: ./output_images/processed_phai.jpg
+2025/02/27 21:42:28 run,line: 195     INFO | Statistics saved to: ./output_images/statistics_phai.jpg.csv
+2025/02/27 21:42:32 run,line: 138     INFO | Processing image: ['15', '21:42:13 27/02/2025', 'image_processor']
+2025/02/27 21:42:32 run,line: 227    ERROR | Unexpected error in image processing thread: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imread'
+> Overload resolution failed:
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+
+2025/02/27 21:42:32 run,line: 138     INFO | Processing image: ['1', '21:42:14 27/02/2025', 'image_processor']
+2025/02/27 21:42:32 run,line: 227    ERROR | Unexpected error in image processing thread: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imread'
+> Overload resolution failed:
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+
+2025/02/27 21:42:32 run,line: 138     INFO | Processing image: ['9', '21:42:14 27/02/2025', 'image_processor']
+2025/02/27 21:42:32 run,line: 227    ERROR | Unexpected error in image processing thread: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imread'
+> Overload resolution failed:
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+
+2025/02/27 21:42:32 run,line: 138     INFO | Processing image: ['14', '21:42:14 27/02/2025', 'image_processor']
+2025/02/27 21:42:32 run,line: 227    ERROR | Unexpected error in image processing thread: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imread'
+> Overload resolution failed:
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+
+2025/02/27 21:42:32 run,line: 138     INFO | Processing image: ['16', '21:42:15 27/02/2025', 'image_processor']
+2025/02/27 21:42:32 run,line: 227    ERROR | Unexpected error in image processing thread: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imread'
+> Overload resolution failed:
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+
+2025/02/27 21:42:32 run,line: 138     INFO | Processing image: ['18', '21:42:16 27/02/2025', 'image_processor']
+2025/02/27 21:42:32 run,line: 227    ERROR | Unexpected error in image processing thread: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imread'
+> Overload resolution failed:
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+
+2025/02/27 21:42:32 run,line: 138     INFO | Processing image: ['19', '21:42:16 27/02/2025', 'image_processor']
+2025/02/27 21:42:32 run,line: 227    ERROR | Unexpected error in image processing thread: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imread'
+> Overload resolution failed:
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+
+2025/02/27 21:42:32 run,line: 138     INFO | Processing image: ['8', '21:42:17 27/02/2025', 'image_processor']
+2025/02/27 21:42:32 run,line: 227    ERROR | Unexpected error in image processing thread: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imread'
+> Overload resolution failed:
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+
+2025/02/27 21:42:32 run,line: 138     INFO | Processing image: ['17', '21:42:17 27/02/2025', 'image_processor']
+2025/02/27 21:42:32 run,line: 227    ERROR | Unexpected error in image processing thread: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imread'
+> Overload resolution failed:
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+
+2025/02/27 21:42:32 run,line: 138     INFO | Processing image: ['28', '21:42:19 27/02/2025', 'image_processor']
+2025/02/27 21:42:32 run,line: 227    ERROR | Unexpected error in image processing thread: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imread'
+> Overload resolution failed:
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+
+2025/02/27 21:42:32 run,line: 138     INFO | Processing image: ['7', '21:42:19 27/02/2025', 'image_processor']
+2025/02/27 21:42:32 run,line: 227    ERROR | Unexpected error in image processing thread: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imread'
+> Overload resolution failed:
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+
+2025/02/27 21:42:32 run,line: 138     INFO | Processing image: ['6', '21:42:24 27/02/2025', 'image_processor']
+2025/02/27 21:42:32 run,line: 227    ERROR | Unexpected error in image processing thread: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imread'
+> Overload resolution failed:
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+
+2025/02/27 21:42:32 run,line: 138     INFO | Processing image: ['50', '21:42:25 27/02/2025', 'image_processor']
+2025/02/27 21:42:32 run,line: 227    ERROR | Unexpected error in image processing thread: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imread'
+> Overload resolution failed:
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+
+2025/02/27 21:42:32 run,line: 138     INFO | Processing image: ['d', '21:42:26 27/02/2025', 'image_processor']
+2025/02/27 21:42:32 run,line: 227    ERROR | Unexpected error in image processing thread: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imread'
+> Overload resolution failed:
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+
+2025/02/27 21:42:32 run,line: 138     INFO | Processing image: ['35', '21:42:27 27/02/2025', 'image_processor']
+2025/02/27 21:42:32 run,line: 227    ERROR | Unexpected error in image processing thread: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imread'
+> Overload resolution failed:
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+
+2025/02/27 21:49:26 run,line: 91     INFO | New image detected: phai2.jpg
+2025/02/27 21:49:26 run,line: 138     INFO | Processing image: ./input_images/phai2.jpg
+2025/02/27 21:49:44 run,line: 163     INFO | Processed image saved to: ./output_images/processed_phai2.jpg
+2025/02/27 21:49:44 run,line: 195     INFO | Statistics saved to: ./output_images/statistics_phai2.jpg.csv
+2025/02/27 21:49:45 run,line: 232     INFO | Image processing thread stopped and models released.
+2025/02/27 21:49:45 run,line: 337     INFO | Application has been terminated gracefully.

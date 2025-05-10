@@ -1,0 +1,1830 @@
+2025/03/24 10:24:13 run1,line: 138     INFO | Processing image: ./input_images/class.jpg
+2025/03/24 10:24:49 run1,line: 165     INFO | Processed image saved to: ./output_images/processed_class.jpg
+2025/03/24 10:24:49 run1,line: 196     INFO | Statistics saved to: ./output_images/statistics_class.jpg.csv
+2025/03/24 10:24:54 run1,line: 217     INFO | Total faces detected: 83, Recognized faces: 67, Detection rate: 80.72%, Average recognition score: 0.72
+2025/03/24 10:24:54 run1,line: 138     INFO | Processing image: ['r_b1_2', '10:24:15 24/03/2025', 'image_processor']
+2025/03/24 10:24:54 run1,line: 228    ERROR | Unexpected error in image processing thread: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imread'
+> Overload resolution failed:
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+
+2025/03/24 10:24:54 run1,line: 138     INFO | Processing image: ['r_b1_1', '10:24:15 24/03/2025', 'image_processor']
+2025/03/24 10:24:54 run1,line: 228    ERROR | Unexpected error in image processing thread: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imread'
+> Overload resolution failed:
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+
+2025/03/24 10:24:54 run1,line: 138     INFO | Processing image: ['r_b2_1', '10:24:16 24/03/2025', 'image_processor']
+2025/03/24 10:24:54 run1,line: 228    ERROR | Unexpected error in image processing thread: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imread'
+> Overload resolution failed:
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+
+2025/03/24 10:24:54 run1,line: 138     INFO | Processing image: ['r_b3_1', '10:24:16 24/03/2025', 'image_processor']
+2025/03/24 10:24:54 run1,line: 228    ERROR | Unexpected error in image processing thread: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imread'
+> Overload resolution failed:
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+
+2025/03/24 10:24:54 run1,line: 138     INFO | Processing image: ['r_b2_4', '10:24:17 24/03/2025', 'image_processor']
+2025/03/24 10:24:54 run1,line: 228    ERROR | Unexpected error in image processing thread: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imread'
+> Overload resolution failed:
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+
+2025/03/24 10:24:54 run1,line: 138     INFO | Processing image: ['r_b2_2', '10:24:17 24/03/2025', 'image_processor']
+2025/03/24 10:24:54 run1,line: 228    ERROR | Unexpected error in image processing thread: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imread'
+> Overload resolution failed:
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+
+2025/03/24 10:24:54 run1,line: 138     INFO | Processing image: ['r_b3_2', '10:24:18 24/03/2025', 'image_processor']
+2025/03/24 10:24:54 run1,line: 228    ERROR | Unexpected error in image processing thread: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imread'
+> Overload resolution failed:
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+
+2025/03/24 10:24:54 run1,line: 138     INFO | Processing image: ['l_3_2', '10:24:18 24/03/2025', 'image_processor']
+2025/03/24 10:24:54 run1,line: 228    ERROR | Unexpected error in image processing thread: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imread'
+> Overload resolution failed:
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+
+2025/03/24 10:24:54 run1,line: 138     INFO | Processing image: ['l_2_2', '10:24:19 24/03/2025', 'image_processor']
+2025/03/24 10:24:54 run1,line: 228    ERROR | Unexpected error in image processing thread: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imread'
+> Overload resolution failed:
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+
+2025/03/24 10:24:54 run1,line: 138     INFO | Processing image: ['l_4_3', '10:24:19 24/03/2025', 'image_processor']
+2025/03/24 10:24:54 run1,line: 228    ERROR | Unexpected error in image processing thread: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imread'
+> Overload resolution failed:
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+
+2025/03/24 10:24:54 run1,line: 138     INFO | Processing image: ['l_3_3', '10:24:20 24/03/2025', 'image_processor']
+2025/03/24 10:24:54 run1,line: 228    ERROR | Unexpected error in image processing thread: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imread'
+> Overload resolution failed:
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+
+2025/03/24 10:24:54 run1,line: 138     INFO | Processing image: ['r_b3_3', '10:24:20 24/03/2025', 'image_processor']
+2025/03/24 10:24:54 run1,line: 228    ERROR | Unexpected error in image processing thread: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imread'
+> Overload resolution failed:
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+
+2025/03/24 10:24:54 run1,line: 138     INFO | Processing image: ['l_4_4', '10:24:21 24/03/2025', 'image_processor']
+2025/03/24 10:24:54 run1,line: 228    ERROR | Unexpected error in image processing thread: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imread'
+> Overload resolution failed:
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+
+2025/03/24 10:24:54 run1,line: 138     INFO | Processing image: ['l_4_2', '10:24:21 24/03/2025', 'image_processor']
+2025/03/24 10:24:54 run1,line: 228    ERROR | Unexpected error in image processing thread: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imread'
+> Overload resolution failed:
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+
+2025/03/24 10:24:54 run1,line: 138     INFO | Processing image: ['l_3_4', '10:24:21 24/03/2025', 'image_processor']
+2025/03/24 10:24:54 run1,line: 228    ERROR | Unexpected error in image processing thread: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imread'
+> Overload resolution failed:
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+
+2025/03/24 10:24:54 run1,line: 138     INFO | Processing image: ['l_3_1', '10:24:22 24/03/2025', 'image_processor']
+2025/03/24 10:24:54 run1,line: 228    ERROR | Unexpected error in image processing thread: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imread'
+> Overload resolution failed:
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+
+2025/03/24 10:24:54 run1,line: 138     INFO | Processing image: ['r_b3_4', '10:24:22 24/03/2025', 'image_processor']
+2025/03/24 10:24:54 run1,line: 228    ERROR | Unexpected error in image processing thread: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imread'
+> Overload resolution failed:
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+
+2025/03/24 10:24:54 run1,line: 138     INFO | Processing image: ['l_6_3', '10:24:23 24/03/2025', 'image_processor']
+2025/03/24 10:24:54 run1,line: 228    ERROR | Unexpected error in image processing thread: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imread'
+> Overload resolution failed:
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+
+2025/03/24 10:24:54 run1,line: 138     INFO | Processing image: ['l_5_5', '10:24:23 24/03/2025', 'image_processor']
+2025/03/24 10:24:54 run1,line: 228    ERROR | Unexpected error in image processing thread: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imread'
+> Overload resolution failed:
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+
+2025/03/24 10:24:54 run1,line: 138     INFO | Processing image: ['l_5_6', '10:24:24 24/03/2025', 'image_processor']
+2025/03/24 10:24:54 run1,line: 228    ERROR | Unexpected error in image processing thread: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imread'
+> Overload resolution failed:
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+
+2025/03/24 10:24:54 run1,line: 138     INFO | Processing image: ['r_b4_2', '10:24:24 24/03/2025', 'image_processor']
+2025/03/24 10:24:54 run1,line: 228    ERROR | Unexpected error in image processing thread: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imread'
+> Overload resolution failed:
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+
+2025/03/24 10:24:54 run1,line: 138     INFO | Processing image: ['r_5_6', '10:24:25 24/03/2025', 'image_processor']
+2025/03/24 10:24:54 run1,line: 228    ERROR | Unexpected error in image processing thread: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imread'
+> Overload resolution failed:
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+
+2025/03/24 10:24:54 run1,line: 138     INFO | Processing image: ['r_5_7', '10:24:25 24/03/2025', 'image_processor']
+2025/03/24 10:24:54 run1,line: 228    ERROR | Unexpected error in image processing thread: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imread'
+> Overload resolution failed:
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+
+2025/03/24 10:24:54 run1,line: 138     INFO | Processing image: ['r_5_3', '10:24:25 24/03/2025', 'image_processor']
+2025/03/24 10:24:54 run1,line: 228    ERROR | Unexpected error in image processing thread: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imread'
+> Overload resolution failed:
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+
+2025/03/24 10:24:54 run1,line: 138     INFO | Processing image: ['r_7_3', '10:24:26 24/03/2025', 'image_processor']
+2025/03/24 10:24:54 run1,line: 228    ERROR | Unexpected error in image processing thread: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imread'
+> Overload resolution failed:
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+
+2025/03/24 10:24:54 run1,line: 138     INFO | Processing image: ['l_6_4', '10:24:27 24/03/2025', 'image_processor']
+2025/03/24 10:24:54 run1,line: 228    ERROR | Unexpected error in image processing thread: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imread'
+> Overload resolution failed:
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+
+2025/03/24 10:24:54 run1,line: 138     INFO | Processing image: ['r_5_5', '10:24:27 24/03/2025', 'image_processor']
+2025/03/24 10:24:54 run1,line: 228    ERROR | Unexpected error in image processing thread: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imread'
+> Overload resolution failed:
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+
+2025/03/24 10:24:54 run1,line: 138     INFO | Processing image: ['r_7_6', '10:24:28 24/03/2025', 'image_processor']
+2025/03/24 10:24:54 run1,line: 228    ERROR | Unexpected error in image processing thread: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imread'
+> Overload resolution failed:
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+
+2025/03/24 10:24:54 run1,line: 138     INFO | Processing image: ['r_6_1', '10:24:29 24/03/2025', 'image_processor']
+2025/03/24 10:24:54 run1,line: 228    ERROR | Unexpected error in image processing thread: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imread'
+> Overload resolution failed:
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+
+2025/03/24 10:24:54 run1,line: 138     INFO | Processing image: ['r_b4_1', '10:24:29 24/03/2025', 'image_processor']
+2025/03/24 10:24:54 run1,line: 228    ERROR | Unexpected error in image processing thread: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imread'
+> Overload resolution failed:
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+
+2025/03/24 10:24:54 run1,line: 138     INFO | Processing image: ['r_b4_4', '10:24:30 24/03/2025', 'image_processor']
+2025/03/24 10:24:54 run1,line: 228    ERROR | Unexpected error in image processing thread: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imread'
+> Overload resolution failed:
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+
+2025/03/24 10:24:54 run1,line: 138     INFO | Processing image: ['l_4_1', '10:24:30 24/03/2025', 'image_processor']
+2025/03/24 10:24:54 run1,line: 228    ERROR | Unexpected error in image processing thread: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imread'
+> Overload resolution failed:
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+
+2025/03/24 10:24:54 run1,line: 138     INFO | Processing image: ['l_4_6', '10:24:31 24/03/2025', 'image_processor']
+2025/03/24 10:24:54 run1,line: 228    ERROR | Unexpected error in image processing thread: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imread'
+> Overload resolution failed:
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+
+2025/03/24 10:24:54 run1,line: 138     INFO | Processing image: ['l_8_2', '10:24:31 24/03/2025', 'image_processor']
+2025/03/24 10:24:54 run1,line: 228    ERROR | Unexpected error in image processing thread: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imread'
+> Overload resolution failed:
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+
+2025/03/24 10:24:54 run1,line: 138     INFO | Processing image: ['r_7_4', '10:24:32 24/03/2025', 'image_processor']
+2025/03/24 10:24:54 run1,line: 228    ERROR | Unexpected error in image processing thread: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imread'
+> Overload resolution failed:
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+
+2025/03/24 10:24:54 run1,line: 138     INFO | Processing image: ['l_4_5', '10:24:33 24/03/2025', 'image_processor']
+2025/03/24 10:24:54 run1,line: 228    ERROR | Unexpected error in image processing thread: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imread'
+> Overload resolution failed:
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+
+2025/03/24 10:24:54 run1,line: 138     INFO | Processing image: ['l_7_3', '10:24:33 24/03/2025', 'image_processor']
+2025/03/24 10:24:54 run1,line: 228    ERROR | Unexpected error in image processing thread: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imread'
+> Overload resolution failed:
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+
+2025/03/24 10:24:54 run1,line: 138     INFO | Processing image: ['r_5_1', '10:24:34 24/03/2025', 'image_processor']
+2025/03/24 10:24:54 run1,line: 228    ERROR | Unexpected error in image processing thread: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imread'
+> Overload resolution failed:
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+
+2025/03/24 10:24:54 run1,line: 138     INFO | Processing image: ['r_6_6', '10:24:34 24/03/2025', 'image_processor']
+2025/03/24 10:24:54 run1,line: 228    ERROR | Unexpected error in image processing thread: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imread'
+> Overload resolution failed:
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+
+2025/03/24 10:24:54 run1,line: 138     INFO | Processing image: ['l_8_4', '10:24:35 24/03/2025', 'image_processor']
+2025/03/24 10:24:54 run1,line: 228    ERROR | Unexpected error in image processing thread: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imread'
+> Overload resolution failed:
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+
+2025/03/24 10:24:54 run1,line: 138     INFO | Processing image: ['r_b4_3', '10:24:35 24/03/2025', 'image_processor']
+2025/03/24 10:24:54 run1,line: 228    ERROR | Unexpected error in image processing thread: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imread'
+> Overload resolution failed:
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+
+2025/03/24 10:24:54 run1,line: 138     INFO | Processing image: ['l_6_7', '10:24:36 24/03/2025', 'image_processor']
+2025/03/24 10:24:54 run1,line: 228    ERROR | Unexpected error in image processing thread: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imread'
+> Overload resolution failed:
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+
+2025/03/24 10:24:54 run1,line: 138     INFO | Processing image: ['r_5_4', '10:24:36 24/03/2025', 'image_processor']
+2025/03/24 10:24:54 run1,line: 228    ERROR | Unexpected error in image processing thread: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imread'
+> Overload resolution failed:
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+
+2025/03/24 10:24:54 run1,line: 138     INFO | Processing image: ['l_11_6', '10:24:37 24/03/2025', 'image_processor']
+2025/03/24 10:24:54 run1,line: 228    ERROR | Unexpected error in image processing thread: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imread'
+> Overload resolution failed:
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+
+2025/03/24 10:24:54 run1,line: 138     INFO | Processing image: ['r_b4_5', '10:24:37 24/03/2025', 'image_processor']
+2025/03/24 10:24:54 run1,line: 228    ERROR | Unexpected error in image processing thread: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imread'
+> Overload resolution failed:
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+
+2025/03/24 10:24:54 run1,line: 138     INFO | Processing image: ['l_8_5', '10:24:38 24/03/2025', 'image_processor']
+2025/03/24 10:24:54 run1,line: 228    ERROR | Unexpected error in image processing thread: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imread'
+> Overload resolution failed:
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+
+2025/03/24 10:24:54 run1,line: 138     INFO | Processing image: ['l_7_1', '10:24:38 24/03/2025', 'image_processor']
+2025/03/24 10:24:54 run1,line: 228    ERROR | Unexpected error in image processing thread: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imread'
+> Overload resolution failed:
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+
+2025/03/24 10:24:54 run1,line: 138     INFO | Processing image: ['r_11_1', '10:24:39 24/03/2025', 'image_processor']
+2025/03/24 10:24:54 run1,line: 228    ERROR | Unexpected error in image processing thread: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imread'
+> Overload resolution failed:
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+
+2025/03/24 10:24:54 run1,line: 138     INFO | Processing image: ['l_5_2', '10:24:40 24/03/2025', 'image_processor']
+2025/03/24 10:24:54 run1,line: 228    ERROR | Unexpected error in image processing thread: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imread'
+> Overload resolution failed:
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+
+2025/03/24 10:24:54 run1,line: 138     INFO | Processing image: ['l_6_2', '10:24:40 24/03/2025', 'image_processor']
+2025/03/24 10:24:54 run1,line: 228    ERROR | Unexpected error in image processing thread: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imread'
+> Overload resolution failed:
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+
+2025/03/24 10:24:54 run1,line: 138     INFO | Processing image: ['r_9_4', '10:24:41 24/03/2025', 'image_processor']
+2025/03/24 10:24:54 run1,line: 228    ERROR | Unexpected error in image processing thread: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imread'
+> Overload resolution failed:
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+
+2025/03/24 10:24:54 run1,line: 138     INFO | Processing image: ['l_8_1', '10:24:42 24/03/2025', 'image_processor']
+2025/03/24 10:24:54 run1,line: 228    ERROR | Unexpected error in image processing thread: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imread'
+> Overload resolution failed:
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+
+2025/03/24 10:24:54 run1,line: 138     INFO | Processing image: ['l_10_7', '10:24:42 24/03/2025', 'image_processor']
+2025/03/24 10:24:54 run1,line: 228    ERROR | Unexpected error in image processing thread: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imread'
+> Overload resolution failed:
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+
+2025/03/24 10:24:54 run1,line: 138     INFO | Processing image: ['l_5_3', '10:24:43 24/03/2025', 'image_processor']
+2025/03/24 10:24:54 run1,line: 228    ERROR | Unexpected error in image processing thread: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imread'
+> Overload resolution failed:
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+
+2025/03/24 10:24:54 run1,line: 138     INFO | Processing image: ['r_6_4', '10:24:43 24/03/2025', 'image_processor']
+2025/03/24 10:24:54 run1,line: 228    ERROR | Unexpected error in image processing thread: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imread'
+> Overload resolution failed:
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+
+2025/03/24 10:24:54 run1,line: 138     INFO | Processing image: ['r_b4_6', '10:24:43 24/03/2025', 'image_processor']
+2025/03/24 10:24:54 run1,line: 228    ERROR | Unexpected error in image processing thread: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imread'
+> Overload resolution failed:
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+
+2025/03/24 10:24:54 run1,line: 138     INFO | Processing image: ['r_9_3', '10:24:44 24/03/2025', 'image_processor']
+2025/03/24 10:24:54 run1,line: 228    ERROR | Unexpected error in image processing thread: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imread'
+> Overload resolution failed:
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+
+2025/03/24 10:24:54 run1,line: 138     INFO | Processing image: ['r_6_3', '10:24:48 24/03/2025', 'image_processor']
+2025/03/24 10:24:54 run1,line: 228    ERROR | Unexpected error in image processing thread: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imread'
+> Overload resolution failed:
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+
+2025/03/24 10:39:25 save_log,line: 18     INFO | +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+2025/03/24 10:39:25 save_log,line: 19     INFO | Logger object created successfully..
+2025/03/24 10:39:25 save_log,line: 18     INFO | +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+2025/03/24 10:39:25 save_log,line: 19     INFO | Logger object created successfully..
+2025/03/24 10:39:25 run1,line: 76     INFO | Starting image monitor for directory: ./input_images/
+2025/03/24 10:39:25 run1,line: 105     INFO | Starting image processing thread...
+2025/03/24 10:39:25 run1,line: 91     INFO | New image detected: netclass.jpeg
+2025/03/24 10:39:25 run1,line: 320     INFO | Application started. Press 'q' to exit.
+2025/03/24 10:39:26 run1,line: 35     INFO | Initial state - Folders: 116, Files: 483
+2025/03/24 10:44:22 run1,line: 138     INFO | Processing image: ./input_images/netclass.jpeg
+2025/03/24 10:44:58 run1,line: 165     INFO | Processed image saved to: ./output_images/processed_netclass.jpeg
+2025/03/24 10:44:58 run1,line: 196     INFO | Statistics saved to: ./output_images/statistics_netclass.jpeg.csv
+2025/03/24 10:44:59 run1,line: 217     INFO | Total faces detected: 79, Recognized faces: 46, Detection rate: 58.23%, Average recognition score: 0.54
+2025/03/24 10:44:59 run1,line: 138     INFO | Processing image: ['r_b1_2', '10:44:23 24/03/2025', 'image_processor']
+2025/03/24 10:44:59 run1,line: 228    ERROR | Unexpected error in image processing thread: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imread'
+> Overload resolution failed:
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+
+2025/03/24 10:44:59 run1,line: 138     INFO | Processing image: ['r_b1_1', '10:44:24 24/03/2025', 'image_processor']
+2025/03/24 10:44:59 run1,line: 228    ERROR | Unexpected error in image processing thread: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imread'
+> Overload resolution failed:
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+
+2025/03/24 10:44:59 run1,line: 138     INFO | Processing image: ['r_b2_1', '10:44:25 24/03/2025', 'image_processor']
+2025/03/24 10:44:59 run1,line: 228    ERROR | Unexpected error in image processing thread: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imread'
+> Overload resolution failed:
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+
+2025/03/24 10:44:59 run1,line: 138     INFO | Processing image: ['r_b3_1', '10:44:25 24/03/2025', 'image_processor']
+2025/03/24 10:44:59 run1,line: 228    ERROR | Unexpected error in image processing thread: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imread'
+> Overload resolution failed:
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+
+2025/03/24 10:44:59 run1,line: 138     INFO | Processing image: ['r_b2_4', '10:44:26 24/03/2025', 'image_processor']
+2025/03/24 10:44:59 run1,line: 228    ERROR | Unexpected error in image processing thread: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imread'
+> Overload resolution failed:
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+
+2025/03/24 10:44:59 run1,line: 138     INFO | Processing image: ['r_b2_2', '10:44:26 24/03/2025', 'image_processor']
+2025/03/24 10:44:59 run1,line: 228    ERROR | Unexpected error in image processing thread: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imread'
+> Overload resolution failed:
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+
+2025/03/24 10:44:59 run1,line: 138     INFO | Processing image: ['l_2_2', '10:44:27 24/03/2025', 'image_processor']
+2025/03/24 10:44:59 run1,line: 228    ERROR | Unexpected error in image processing thread: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imread'
+> Overload resolution failed:
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+
+2025/03/24 10:44:59 run1,line: 138     INFO | Processing image: ['r_b3_2', '10:44:28 24/03/2025', 'image_processor']
+2025/03/24 10:44:59 run1,line: 228    ERROR | Unexpected error in image processing thread: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imread'
+> Overload resolution failed:
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+
+2025/03/24 10:44:59 run1,line: 138     INFO | Processing image: ['l_3_3', '10:44:28 24/03/2025', 'image_processor']
+2025/03/24 10:44:59 run1,line: 228    ERROR | Unexpected error in image processing thread: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imread'
+> Overload resolution failed:
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+
+2025/03/24 10:44:59 run1,line: 138     INFO | Processing image: ['l_4_3', '10:44:29 24/03/2025', 'image_processor']
+2025/03/24 10:44:59 run1,line: 228    ERROR | Unexpected error in image processing thread: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imread'
+> Overload resolution failed:
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+
+2025/03/24 10:44:59 run1,line: 138     INFO | Processing image: ['r_b3_3', '10:44:29 24/03/2025', 'image_processor']
+2025/03/24 10:44:59 run1,line: 228    ERROR | Unexpected error in image processing thread: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imread'
+> Overload resolution failed:
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+
+2025/03/24 10:44:59 run1,line: 138     INFO | Processing image: ['l_3_2', '10:44:30 24/03/2025', 'image_processor']
+2025/03/24 10:44:59 run1,line: 228    ERROR | Unexpected error in image processing thread: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imread'
+> Overload resolution failed:
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+
+2025/03/24 10:44:59 run1,line: 138     INFO | Processing image: ['l_3_1', '10:44:30 24/03/2025', 'image_processor']
+2025/03/24 10:44:59 run1,line: 228    ERROR | Unexpected error in image processing thread: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imread'
+> Overload resolution failed:
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+
+2025/03/24 10:44:59 run1,line: 138     INFO | Processing image: ['l_3_4', '10:44:31 24/03/2025', 'image_processor']
+2025/03/24 10:44:59 run1,line: 228    ERROR | Unexpected error in image processing thread: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imread'
+> Overload resolution failed:
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+
+2025/03/24 10:44:59 run1,line: 138     INFO | Processing image: ['r_b4_2', '10:44:31 24/03/2025', 'image_processor']
+2025/03/24 10:44:59 run1,line: 228    ERROR | Unexpected error in image processing thread: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imread'
+> Overload resolution failed:
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+
+2025/03/24 10:44:59 run1,line: 138     INFO | Processing image: ['l_4_2', '10:44:32 24/03/2025', 'image_processor']
+2025/03/24 10:44:59 run1,line: 228    ERROR | Unexpected error in image processing thread: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imread'
+> Overload resolution failed:
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+
+2025/03/24 10:44:59 run1,line: 138     INFO | Processing image: ['r_b3_4', '10:44:33 24/03/2025', 'image_processor']
+2025/03/24 10:44:59 run1,line: 228    ERROR | Unexpected error in image processing thread: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imread'
+> Overload resolution failed:
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+
+2025/03/24 10:44:59 run1,line: 138     INFO | Processing image: ['l_5_6', '10:44:33 24/03/2025', 'image_processor']
+2025/03/24 10:44:59 run1,line: 228    ERROR | Unexpected error in image processing thread: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imread'
+> Overload resolution failed:
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+
+2025/03/24 10:44:59 run1,line: 138     INFO | Processing image: ['r_10_3', '10:44:34 24/03/2025', 'image_processor']
+2025/03/24 10:44:59 run1,line: 228    ERROR | Unexpected error in image processing thread: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imread'
+> Overload resolution failed:
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+
+2025/03/24 10:44:59 run1,line: 138     INFO | Processing image: ['r_5_6', '10:44:35 24/03/2025', 'image_processor']
+2025/03/24 10:44:59 run1,line: 228    ERROR | Unexpected error in image processing thread: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imread'
+> Overload resolution failed:
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+
+2025/03/24 10:44:59 run1,line: 138     INFO | Processing image: ['l_6_4', '10:44:35 24/03/2025', 'image_processor']
+2025/03/24 10:44:59 run1,line: 228    ERROR | Unexpected error in image processing thread: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imread'
+> Overload resolution failed:
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+
+2025/03/24 10:44:59 run1,line: 138     INFO | Processing image: ['r_7_3', '10:44:36 24/03/2025', 'image_processor']
+2025/03/24 10:44:59 run1,line: 228    ERROR | Unexpected error in image processing thread: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imread'
+> Overload resolution failed:
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+
+2025/03/24 10:44:59 run1,line: 138     INFO | Processing image: ['l_6_3', '10:44:37 24/03/2025', 'image_processor']
+2025/03/24 10:44:59 run1,line: 228    ERROR | Unexpected error in image processing thread: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imread'
+> Overload resolution failed:
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+
+2025/03/24 10:44:59 run1,line: 138     INFO | Processing image: ['l_9_1', '10:44:37 24/03/2025', 'image_processor']
+2025/03/24 10:44:59 run1,line: 228    ERROR | Unexpected error in image processing thread: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imread'
+> Overload resolution failed:
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+
+2025/03/24 10:44:59 run1,line: 138     INFO | Processing image: ['r_b4_4', '10:44:39 24/03/2025', 'image_processor']
+2025/03/24 10:44:59 run1,line: 228    ERROR | Unexpected error in image processing thread: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imread'
+> Overload resolution failed:
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+
+2025/03/24 10:44:59 run1,line: 138     INFO | Processing image: ['l_4_6', '10:44:40 24/03/2025', 'image_processor']
+2025/03/24 10:44:59 run1,line: 228    ERROR | Unexpected error in image processing thread: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imread'
+> Overload resolution failed:
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+
+2025/03/24 10:44:59 run1,line: 138     INFO | Processing image: ['r_b4_1', '10:44:41 24/03/2025', 'image_processor']
+2025/03/24 10:44:59 run1,line: 228    ERROR | Unexpected error in image processing thread: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imread'
+> Overload resolution failed:
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+
+2025/03/24 10:44:59 run1,line: 138     INFO | Processing image: ['r_5_1', '10:44:42 24/03/2025', 'image_processor']
+2025/03/24 10:44:59 run1,line: 228    ERROR | Unexpected error in image processing thread: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imread'
+> Overload resolution failed:
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+
+2025/03/24 10:44:59 run1,line: 138     INFO | Processing image: ['r_b4_3', '10:44:43 24/03/2025', 'image_processor']
+2025/03/24 10:44:59 run1,line: 228    ERROR | Unexpected error in image processing thread: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imread'
+> Overload resolution failed:
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+
+2025/03/24 10:44:59 run1,line: 138     INFO | Processing image: ['l_4_1', '10:44:44 24/03/2025', 'image_processor']
+2025/03/24 10:44:59 run1,line: 228    ERROR | Unexpected error in image processing thread: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imread'
+> Overload resolution failed:
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+
+2025/03/24 10:44:59 run1,line: 138     INFO | Processing image: ['r_8_8', '10:44:47 24/03/2025', 'image_processor']
+2025/03/24 10:44:59 run1,line: 228    ERROR | Unexpected error in image processing thread: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imread'
+> Overload resolution failed:
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+
+2025/03/24 10:44:59 run1,line: 138     INFO | Processing image: ['r_b4_5', '10:44:47 24/03/2025', 'image_processor']
+2025/03/24 10:44:59 run1,line: 228    ERROR | Unexpected error in image processing thread: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imread'
+> Overload resolution failed:
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+
+2025/03/24 10:44:59 run1,line: 138     INFO | Processing image: ['l_4_5', '10:44:48 24/03/2025', 'image_processor']
+2025/03/24 10:44:59 run1,line: 228    ERROR | Unexpected error in image processing thread: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imread'
+> Overload resolution failed:
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+
+2025/03/24 10:44:59 run1,line: 138     INFO | Processing image: ['r_6_5', '10:44:49 24/03/2025', 'image_processor']
+2025/03/24 10:44:59 run1,line: 228    ERROR | Unexpected error in image processing thread: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imread'
+> Overload resolution failed:
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+
+2025/03/24 10:44:59 run1,line: 138     INFO | Processing image: ['r_11_1', '10:44:50 24/03/2025', 'image_processor']
+2025/03/24 10:44:59 run1,line: 228    ERROR | Unexpected error in image processing thread: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imread'
+> Overload resolution failed:
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+
+2025/03/24 10:44:59 run1,line: 138     INFO | Processing image: ['l_8_5', '10:44:51 24/03/2025', 'image_processor']
+2025/03/24 10:44:59 run1,line: 228    ERROR | Unexpected error in image processing thread: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imread'
+> Overload resolution failed:
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+
+2025/03/24 10:44:59 run1,line: 138     INFO | Processing image: ['l_8_3', '10:44:52 24/03/2025', 'image_processor']
+2025/03/24 10:44:59 run1,line: 228    ERROR | Unexpected error in image processing thread: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imread'
+> Overload resolution failed:
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+
+2025/03/24 10:44:59 run1,line: 138     INFO | Processing image: ['r_9_3', '10:44:54 24/03/2025', 'image_processor']
+2025/03/24 10:44:59 run1,line: 228    ERROR | Unexpected error in image processing thread: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imread'
+> Overload resolution failed:
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+
+2025/03/24 10:44:59 run1,line: 138     INFO | Processing image: ['r_11_2', '10:44:55 24/03/2025', 'image_processor']
+2025/03/24 10:44:59 run1,line: 228    ERROR | Unexpected error in image processing thread: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imread'
+> Overload resolution failed:
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+
+2025/03/24 10:44:59 run1,line: 138     INFO | Processing image: ['l_11_6', '10:44:56 24/03/2025', 'image_processor']
+2025/03/24 10:44:59 run1,line: 228    ERROR | Unexpected error in image processing thread: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imread'
+> Overload resolution failed:
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+
+2025/03/24 10:44:59 run1,line: 138     INFO | Processing image: ['r_5_2', '10:44:57 24/03/2025', 'image_processor']
+2025/03/24 10:44:59 run1,line: 228    ERROR | Unexpected error in image processing thread: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imread'
+> Overload resolution failed:
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+
+2025/03/24 10:46:06 run1,line: 91     INFO | New image detected: class.jpg
+2025/03/24 10:46:06 run1,line: 138     INFO | Processing image: ./input_images/class.jpg
+2025/03/24 10:46:44 run1,line: 165     INFO | Processed image saved to: ./output_images/processed_class.jpg
+2025/03/24 10:46:45 run1,line: 196     INFO | Statistics saved to: ./output_images/statistics_class.jpg.csv
+2025/03/24 10:46:45 run1,line: 217     INFO | Total faces detected: 83, Recognized faces: 67, Detection rate: 80.72%, Average recognition score: 0.71
+2025/03/24 10:46:45 run1,line: 233     INFO | Image processing thread stopped and models released.
+2025/03/24 10:46:45 run1,line: 338     INFO | Application has been terminated gracefully.
+2025/03/24 11:48:35 save_log,line: 18     INFO | +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+2025/03/24 11:48:35 save_log,line: 19     INFO | Logger object created successfully..
+2025/03/24 11:48:35 save_log,line: 18     INFO | +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+2025/03/24 11:48:35 save_log,line: 19     INFO | Logger object created successfully..
+2025/03/24 11:48:35 run1,line: 76     INFO | Starting image monitor for directory: ./input_images/
+2025/03/24 11:48:35 run1,line: 91     INFO | New image detected: class.jpg
+2025/03/24 11:48:35 run1,line: 105     INFO | Starting image processing thread...
+2025/03/24 11:48:35 run1,line: 320     INFO | Application started. Press 'q' to exit.
+2025/03/24 11:48:35 run1,line: 35     INFO | Initial state - Folders: 116, Files: 499
+2025/03/24 11:53:42 run1,line: 138     INFO | Processing image: ./input_images/class.jpg
+2025/03/24 11:54:18 run1,line: 165     INFO | Processed image saved to: ./output_images/processed_class.jpg
+2025/03/24 11:54:18 run1,line: 196     INFO | Statistics saved to: ./output_images/statistics_class.jpg.csv
+2025/03/24 11:54:23 run1,line: 217     INFO | Total faces detected: 83, Recognized faces: 69, Detection rate: 83.13%, Average recognition score: 0.71
+2025/03/24 11:54:23 run1,line: 138     INFO | Processing image: ['r_b1_2', '11:53:44 24/03/2025', 'image_processor']
+2025/03/24 11:54:23 run1,line: 228    ERROR | Unexpected error in image processing thread: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imread'
+> Overload resolution failed:
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+
+2025/03/24 11:54:23 run1,line: 138     INFO | Processing image: ['r_b1_1', '11:53:44 24/03/2025', 'image_processor']
+2025/03/24 11:54:23 run1,line: 228    ERROR | Unexpected error in image processing thread: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imread'
+> Overload resolution failed:
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+
+2025/03/24 11:54:23 run1,line: 138     INFO | Processing image: ['r_b2_1', '11:53:45 24/03/2025', 'image_processor']
+2025/03/24 11:54:23 run1,line: 228    ERROR | Unexpected error in image processing thread: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imread'
+> Overload resolution failed:
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+
+2025/03/24 11:54:23 run1,line: 138     INFO | Processing image: ['r_b3_1', '11:53:45 24/03/2025', 'image_processor']
+2025/03/24 11:54:24 run1,line: 228    ERROR | Unexpected error in image processing thread: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imread'
+> Overload resolution failed:
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+
+2025/03/24 11:54:24 run1,line: 138     INFO | Processing image: ['r_b2_4', '11:53:46 24/03/2025', 'image_processor']
+2025/03/24 11:54:24 run1,line: 228    ERROR | Unexpected error in image processing thread: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imread'
+> Overload resolution failed:
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+
+2025/03/24 11:54:24 run1,line: 138     INFO | Processing image: ['r_b2_2', '11:53:46 24/03/2025', 'image_processor']
+2025/03/24 11:54:24 run1,line: 228    ERROR | Unexpected error in image processing thread: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imread'
+> Overload resolution failed:
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+
+2025/03/24 11:54:24 run1,line: 138     INFO | Processing image: ['r_b3_2', '11:53:47 24/03/2025', 'image_processor']
+2025/03/24 11:54:24 run1,line: 228    ERROR | Unexpected error in image processing thread: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imread'
+> Overload resolution failed:
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+
+2025/03/24 11:54:24 run1,line: 138     INFO | Processing image: ['l_3_2', '11:53:47 24/03/2025', 'image_processor']
+2025/03/24 11:54:24 run1,line: 228    ERROR | Unexpected error in image processing thread: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imread'
+> Overload resolution failed:
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+
+2025/03/24 11:54:24 run1,line: 138     INFO | Processing image: ['l_2_2', '11:53:48 24/03/2025', 'image_processor']
+2025/03/24 11:54:24 run1,line: 228    ERROR | Unexpected error in image processing thread: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imread'
+> Overload resolution failed:
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+
+2025/03/24 11:54:24 run1,line: 138     INFO | Processing image: ['l_4_3', '11:53:48 24/03/2025', 'image_processor']
+2025/03/24 11:54:24 run1,line: 228    ERROR | Unexpected error in image processing thread: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imread'
+> Overload resolution failed:
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+
+2025/03/24 11:54:24 run1,line: 138     INFO | Processing image: ['l_3_3', '11:53:49 24/03/2025', 'image_processor']
+2025/03/24 11:54:24 run1,line: 228    ERROR | Unexpected error in image processing thread: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imread'
+> Overload resolution failed:
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+
+2025/03/24 11:54:24 run1,line: 138     INFO | Processing image: ['r_b3_3', '11:53:49 24/03/2025', 'image_processor']
+2025/03/24 11:54:24 run1,line: 228    ERROR | Unexpected error in image processing thread: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imread'
+> Overload resolution failed:
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+
+2025/03/24 11:54:24 run1,line: 138     INFO | Processing image: ['l_4_4', '11:53:50 24/03/2025', 'image_processor']
+2025/03/24 11:54:24 run1,line: 228    ERROR | Unexpected error in image processing thread: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imread'
+> Overload resolution failed:
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+
+2025/03/24 11:54:24 run1,line: 138     INFO | Processing image: ['l_4_2', '11:53:50 24/03/2025', 'image_processor']
+2025/03/24 11:54:24 run1,line: 228    ERROR | Unexpected error in image processing thread: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imread'
+> Overload resolution failed:
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+
+2025/03/24 11:54:24 run1,line: 138     INFO | Processing image: ['l_3_4', '11:53:51 24/03/2025', 'image_processor']
+2025/03/24 11:54:24 run1,line: 228    ERROR | Unexpected error in image processing thread: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imread'
+> Overload resolution failed:
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+
+2025/03/24 11:54:24 run1,line: 138     INFO | Processing image: ['l_3_1', '11:53:51 24/03/2025', 'image_processor']
+2025/03/24 11:54:24 run1,line: 228    ERROR | Unexpected error in image processing thread: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imread'
+> Overload resolution failed:
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+
+2025/03/24 11:54:24 run1,line: 138     INFO | Processing image: ['r_b3_4', '11:53:52 24/03/2025', 'image_processor']
+2025/03/24 11:54:24 run1,line: 228    ERROR | Unexpected error in image processing thread: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imread'
+> Overload resolution failed:
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+
+2025/03/24 11:54:24 run1,line: 138     INFO | Processing image: ['l_6_3', '11:53:52 24/03/2025', 'image_processor']
+2025/03/24 11:54:24 run1,line: 228    ERROR | Unexpected error in image processing thread: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imread'
+> Overload resolution failed:
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+
+2025/03/24 11:54:24 run1,line: 138     INFO | Processing image: ['l_5_5', '11:53:52 24/03/2025', 'image_processor']
+2025/03/24 11:54:24 run1,line: 228    ERROR | Unexpected error in image processing thread: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imread'
+> Overload resolution failed:
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+
+2025/03/24 11:54:24 run1,line: 138     INFO | Processing image: ['l_5_6', '11:53:53 24/03/2025', 'image_processor']
+2025/03/24 11:54:24 run1,line: 228    ERROR | Unexpected error in image processing thread: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imread'
+> Overload resolution failed:
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+
+2025/03/24 11:54:24 run1,line: 138     INFO | Processing image: ['r_b4_2', '11:53:53 24/03/2025', 'image_processor']
+2025/03/24 11:54:24 run1,line: 228    ERROR | Unexpected error in image processing thread: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imread'
+> Overload resolution failed:
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+
+2025/03/24 11:54:24 run1,line: 138     INFO | Processing image: ['r_5_6', '11:53:54 24/03/2025', 'image_processor']
+2025/03/24 11:54:24 run1,line: 228    ERROR | Unexpected error in image processing thread: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imread'
+> Overload resolution failed:
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+
+2025/03/24 11:54:24 run1,line: 138     INFO | Processing image: ['r_5_7', '11:53:54 24/03/2025', 'image_processor']
+2025/03/24 11:54:24 run1,line: 228    ERROR | Unexpected error in image processing thread: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imread'
+> Overload resolution failed:
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+
+2025/03/24 11:54:24 run1,line: 138     INFO | Processing image: ['r_5_3', '11:53:55 24/03/2025', 'image_processor']
+2025/03/24 11:54:24 run1,line: 228    ERROR | Unexpected error in image processing thread: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imread'
+> Overload resolution failed:
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+
+2025/03/24 11:54:24 run1,line: 138     INFO | Processing image: ['r_7_3', '11:53:55 24/03/2025', 'image_processor']
+2025/03/24 11:54:24 run1,line: 228    ERROR | Unexpected error in image processing thread: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imread'
+> Overload resolution failed:
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+
+2025/03/24 11:54:24 run1,line: 138     INFO | Processing image: ['l_6_4', '11:53:56 24/03/2025', 'image_processor']
+2025/03/24 11:54:24 run1,line: 228    ERROR | Unexpected error in image processing thread: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imread'
+> Overload resolution failed:
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+
+2025/03/24 11:54:24 run1,line: 138     INFO | Processing image: ['r_5_5', '11:53:56 24/03/2025', 'image_processor']
+2025/03/24 11:54:24 run1,line: 228    ERROR | Unexpected error in image processing thread: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imread'
+> Overload resolution failed:
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+
+2025/03/24 11:54:24 run1,line: 138     INFO | Processing image: ['r_7_6', '11:53:57 24/03/2025', 'image_processor']
+2025/03/24 11:54:24 run1,line: 228    ERROR | Unexpected error in image processing thread: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imread'
+> Overload resolution failed:
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+
+2025/03/24 11:54:24 run1,line: 138     INFO | Processing image: ['r_6_1', '11:53:58 24/03/2025', 'image_processor']
+2025/03/24 11:54:24 run1,line: 228    ERROR | Unexpected error in image processing thread: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imread'
+> Overload resolution failed:
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+
+2025/03/24 11:54:24 run1,line: 138     INFO | Processing image: ['r_b4_1', '11:53:58 24/03/2025', 'image_processor']
+2025/03/24 11:54:24 run1,line: 228    ERROR | Unexpected error in image processing thread: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imread'
+> Overload resolution failed:
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+
+2025/03/24 11:54:24 run1,line: 138     INFO | Processing image: ['r_b4_4', '11:53:59 24/03/2025', 'image_processor']
+2025/03/24 11:54:24 run1,line: 228    ERROR | Unexpected error in image processing thread: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imread'
+> Overload resolution failed:
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+
+2025/03/24 11:54:24 run1,line: 138     INFO | Processing image: ['l_4_1', '11:53:59 24/03/2025', 'image_processor']
+2025/03/24 11:54:24 run1,line: 228    ERROR | Unexpected error in image processing thread: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imread'
+> Overload resolution failed:
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+
+2025/03/24 11:54:24 run1,line: 138     INFO | Processing image: ['l_4_6', '11:54:00 24/03/2025', 'image_processor']
+2025/03/24 11:54:24 run1,line: 228    ERROR | Unexpected error in image processing thread: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imread'
+> Overload resolution failed:
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+
+2025/03/24 11:54:24 run1,line: 138     INFO | Processing image: ['l_8_2', '11:54:00 24/03/2025', 'image_processor']
+2025/03/24 11:54:24 run1,line: 228    ERROR | Unexpected error in image processing thread: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imread'
+> Overload resolution failed:
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+
+2025/03/24 11:54:24 run1,line: 138     INFO | Processing image: ['r_7_4', '11:54:01 24/03/2025', 'image_processor']
+2025/03/24 11:54:24 run1,line: 228    ERROR | Unexpected error in image processing thread: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imread'
+> Overload resolution failed:
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+
+2025/03/24 11:54:24 run1,line: 138     INFO | Processing image: ['l_4_5', '11:54:01 24/03/2025', 'image_processor']
+2025/03/24 11:54:24 run1,line: 228    ERROR | Unexpected error in image processing thread: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imread'
+> Overload resolution failed:
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+
+2025/03/24 11:54:24 run1,line: 138     INFO | Processing image: ['l_7_3', '11:54:02 24/03/2025', 'image_processor']
+2025/03/24 11:54:24 run1,line: 228    ERROR | Unexpected error in image processing thread: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imread'
+> Overload resolution failed:
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+
+2025/03/24 11:54:24 run1,line: 138     INFO | Processing image: ['r_5_1', '11:54:02 24/03/2025', 'image_processor']
+2025/03/24 11:54:24 run1,line: 228    ERROR | Unexpected error in image processing thread: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imread'
+> Overload resolution failed:
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+
+2025/03/24 11:54:24 run1,line: 138     INFO | Processing image: ['r_6_6', '11:54:03 24/03/2025', 'image_processor']
+2025/03/24 11:54:24 run1,line: 228    ERROR | Unexpected error in image processing thread: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imread'
+> Overload resolution failed:
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+
+2025/03/24 11:54:24 run1,line: 138     INFO | Processing image: ['r_9_4', '11:54:03 24/03/2025', 'image_processor']
+2025/03/24 11:54:24 run1,line: 228    ERROR | Unexpected error in image processing thread: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imread'
+> Overload resolution failed:
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+
+2025/03/24 11:54:24 run1,line: 138     INFO | Processing image: ['r_b4_3', '11:54:04 24/03/2025', 'image_processor']
+2025/03/24 11:54:24 run1,line: 228    ERROR | Unexpected error in image processing thread: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imread'
+> Overload resolution failed:
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+
+2025/03/24 11:54:24 run1,line: 138     INFO | Processing image: ['l_6_7', '11:54:04 24/03/2025', 'image_processor']
+2025/03/24 11:54:24 run1,line: 228    ERROR | Unexpected error in image processing thread: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imread'
+> Overload resolution failed:
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+
+2025/03/24 11:54:24 run1,line: 138     INFO | Processing image: ['r_5_4', '11:54:05 24/03/2025', 'image_processor']
+2025/03/24 11:54:24 run1,line: 228    ERROR | Unexpected error in image processing thread: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imread'
+> Overload resolution failed:
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+
+2025/03/24 11:54:24 run1,line: 138     INFO | Processing image: ['l_11_6', '11:54:06 24/03/2025', 'image_processor']
+2025/03/24 11:54:24 run1,line: 228    ERROR | Unexpected error in image processing thread: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imread'
+> Overload resolution failed:
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+
+2025/03/24 11:54:24 run1,line: 138     INFO | Processing image: ['r_b4_5', '11:54:06 24/03/2025', 'image_processor']
+2025/03/24 11:54:24 run1,line: 228    ERROR | Unexpected error in image processing thread: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imread'
+> Overload resolution failed:
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+
+2025/03/24 11:54:24 run1,line: 138     INFO | Processing image: ['l_8_5', '11:54:07 24/03/2025', 'image_processor']
+2025/03/24 11:54:24 run1,line: 228    ERROR | Unexpected error in image processing thread: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imread'
+> Overload resolution failed:
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+
+2025/03/24 11:54:24 run1,line: 138     INFO | Processing image: ['l_7_1', '11:54:07 24/03/2025', 'image_processor']
+2025/03/24 11:54:24 run1,line: 228    ERROR | Unexpected error in image processing thread: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imread'
+> Overload resolution failed:
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+
+2025/03/24 11:54:24 run1,line: 138     INFO | Processing image: ['r_11_1', '11:54:08 24/03/2025', 'image_processor']
+2025/03/24 11:54:24 run1,line: 228    ERROR | Unexpected error in image processing thread: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imread'
+> Overload resolution failed:
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+
+2025/03/24 11:54:24 run1,line: 138     INFO | Processing image: ['l_5_2', '11:54:09 24/03/2025', 'image_processor']
+2025/03/24 11:54:24 run1,line: 228    ERROR | Unexpected error in image processing thread: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imread'
+> Overload resolution failed:
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+
+2025/03/24 11:54:24 run1,line: 138     INFO | Processing image: ['l_6_2', '11:54:09 24/03/2025', 'image_processor']
+2025/03/24 11:54:24 run1,line: 228    ERROR | Unexpected error in image processing thread: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imread'
+> Overload resolution failed:
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+
+2025/03/24 11:54:24 run1,line: 138     INFO | Processing image: ['l_8_1', '11:54:10 24/03/2025', 'image_processor']
+2025/03/24 11:54:24 run1,line: 228    ERROR | Unexpected error in image processing thread: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imread'
+> Overload resolution failed:
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+
+2025/03/24 11:54:24 run1,line: 138     INFO | Processing image: ['l_10_7', '11:54:11 24/03/2025', 'image_processor']
+2025/03/24 11:54:24 run1,line: 228    ERROR | Unexpected error in image processing thread: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imread'
+> Overload resolution failed:
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+
+2025/03/24 11:54:24 run1,line: 138     INFO | Processing image: ['l_5_3', '11:54:11 24/03/2025', 'image_processor']
+2025/03/24 11:54:24 run1,line: 228    ERROR | Unexpected error in image processing thread: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imread'
+> Overload resolution failed:
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+
+2025/03/24 11:54:24 run1,line: 138     INFO | Processing image: ['r_6_4', '11:54:12 24/03/2025', 'image_processor']
+2025/03/24 11:54:24 run1,line: 228    ERROR | Unexpected error in image processing thread: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imread'
+> Overload resolution failed:
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+
+2025/03/24 11:54:24 run1,line: 138     INFO | Processing image: ['r_b4_6', '11:54:12 24/03/2025', 'image_processor']
+2025/03/24 11:54:24 run1,line: 228    ERROR | Unexpected error in image processing thread: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imread'
+> Overload resolution failed:
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+
+2025/03/24 11:54:24 run1,line: 138     INFO | Processing image: ['l_9_5', '11:54:13 24/03/2025', 'image_processor']
+2025/03/24 11:54:24 run1,line: 228    ERROR | Unexpected error in image processing thread: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imread'
+> Overload resolution failed:
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+
+2025/03/24 11:54:24 run1,line: 138     INFO | Processing image: ['l_8_3', '11:54:13 24/03/2025', 'image_processor']
+2025/03/24 11:54:24 run1,line: 228    ERROR | Unexpected error in image processing thread: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imread'
+> Overload resolution failed:
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+
+2025/03/24 11:54:24 run1,line: 138     INFO | Processing image: ['r_9_3', '11:54:13 24/03/2025', 'image_processor']
+2025/03/24 11:54:24 run1,line: 228    ERROR | Unexpected error in image processing thread: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imread'
+> Overload resolution failed:
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+
+2025/03/24 11:54:24 run1,line: 138     INFO | Processing image: ['r_6_3', '11:54:18 24/03/2025', 'image_processor']
+2025/03/24 11:54:24 run1,line: 228    ERROR | Unexpected error in image processing thread: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imread'
+> Overload resolution failed:
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+
+2025/03/24 11:58:21 run1,line: 91     INFO | New image detected: class1.JPG
+2025/03/24 11:58:21 run1,line: 138     INFO | Processing image: ./input_images/class1.JPG
+2025/03/24 11:58:44 run1,line: 165     INFO | Processed image saved to: ./output_images/processed_class1.JPG
+2025/03/24 11:58:44 run1,line: 196     INFO | Statistics saved to: ./output_images/statistics_class1.JPG.csv
+2025/03/24 11:58:44 run1,line: 217     INFO | Total faces detected: 55, Recognized faces: 34, Detection rate: 61.82%, Average recognition score: 0.56
+2025/03/24 11:58:44 run1,line: 233     INFO | Image processing thread stopped and models released.
+2025/03/24 11:58:44 run1,line: 338     INFO | Application has been terminated gracefully.
+2025/03/24 11:59:43 save_log,line: 18     INFO | +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+2025/03/24 11:59:43 save_log,line: 19     INFO | Logger object created successfully..
+2025/03/24 11:59:43 save_log,line: 18     INFO | +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+2025/03/24 11:59:43 save_log,line: 19     INFO | Logger object created successfully..
+2025/03/24 11:59:43 run1,line: 76     INFO | Starting image monitor for directory: ./input_images/
+2025/03/24 11:59:43 run1,line: 105     INFO | Starting image processing thread...
+2025/03/24 11:59:43 run1,line: 91     INFO | New image detected: class1.JPG
+2025/03/24 11:59:43 run1,line: 320     INFO | Application started. Press 'q' to exit.
+2025/03/24 11:59:43 run1,line: 35     INFO | Initial state - Folders: 116, Files: 499
+2025/03/24 12:05:06 run1,line: 138     INFO | Processing image: ./input_images/class1.JPG
+2025/03/24 12:05:39 run1,line: 165     INFO | Processed image saved to: ./output_images/processed_class1.JPG
+2025/03/24 12:05:39 run1,line: 196     INFO | Statistics saved to: ./output_images/statistics_class1.JPG.csv
+2025/03/24 12:05:40 run1,line: 217     INFO | Total faces detected: 55, Recognized faces: 34, Detection rate: 61.82%, Average recognition score: 0.56
+2025/03/24 12:05:40 run1,line: 138     INFO | Processing image: ['r_b3_1', '12:05:08 24/03/2025', 'image_processor']
+2025/03/24 12:05:40 run1,line: 228    ERROR | Unexpected error in image processing thread: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imread'
+> Overload resolution failed:
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+
+2025/03/24 12:05:40 run1,line: 138     INFO | Processing image: ['r_b2_4', '12:05:09 24/03/2025', 'image_processor']
+2025/03/24 12:05:40 run1,line: 228    ERROR | Unexpected error in image processing thread: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imread'
+> Overload resolution failed:
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+
+2025/03/24 12:05:40 run1,line: 138     INFO | Processing image: ['r_b4_5', '12:05:10 24/03/2025', 'image_processor']
+2025/03/24 12:05:40 run1,line: 228    ERROR | Unexpected error in image processing thread: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imread'
+> Overload resolution failed:
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+
+2025/03/24 12:05:40 run1,line: 138     INFO | Processing image: ['r_b1_1', '12:05:11 24/03/2025', 'image_processor']
+2025/03/24 12:05:40 run1,line: 228    ERROR | Unexpected error in image processing thread: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imread'
+> Overload resolution failed:
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+
+2025/03/24 12:05:40 run1,line: 138     INFO | Processing image: ['r_b2_1', '12:05:11 24/03/2025', 'image_processor']
+2025/03/24 12:05:40 run1,line: 228    ERROR | Unexpected error in image processing thread: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imread'
+> Overload resolution failed:
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+
+2025/03/24 12:05:40 run1,line: 138     INFO | Processing image: ['r_b4_6', '12:05:12 24/03/2025', 'image_processor']
+2025/03/24 12:05:40 run1,line: 228    ERROR | Unexpected error in image processing thread: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imread'
+> Overload resolution failed:
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+
+2025/03/24 12:05:40 run1,line: 138     INFO | Processing image: ['r_b4_4', '12:05:12 24/03/2025', 'image_processor']
+2025/03/24 12:05:40 run1,line: 228    ERROR | Unexpected error in image processing thread: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imread'
+> Overload resolution failed:
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+
+2025/03/24 12:05:40 run1,line: 138     INFO | Processing image: ['l_5_3', '12:05:13 24/03/2025', 'image_processor']
+2025/03/24 12:05:40 run1,line: 228    ERROR | Unexpected error in image processing thread: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imread'
+> Overload resolution failed:
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+
+2025/03/24 12:05:40 run1,line: 138     INFO | Processing image: ['r_b2_2', '12:05:14 24/03/2025', 'image_processor']
+2025/03/24 12:05:40 run1,line: 228    ERROR | Unexpected error in image processing thread: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imread'
+> Overload resolution failed:
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+
+2025/03/24 12:05:40 run1,line: 138     INFO | Processing image: ['r_5_4', '12:05:15 24/03/2025', 'image_processor']
+2025/03/24 12:05:40 run1,line: 228    ERROR | Unexpected error in image processing thread: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imread'
+> Overload resolution failed:
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+
+2025/03/24 12:05:40 run1,line: 138     INFO | Processing image: ['r_b1_2', '12:05:16 24/03/2025', 'image_processor']
+2025/03/24 12:05:40 run1,line: 228    ERROR | Unexpected error in image processing thread: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imread'
+> Overload resolution failed:
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+
+2025/03/24 12:05:40 run1,line: 138     INFO | Processing image: ['r_b3_3', '12:05:17 24/03/2025', 'image_processor']
+2025/03/24 12:05:40 run1,line: 228    ERROR | Unexpected error in image processing thread: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imread'
+> Overload resolution failed:
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+
+2025/03/24 12:05:40 run1,line: 138     INFO | Processing image: ['r_5_3', '12:05:18 24/03/2025', 'image_processor']
+2025/03/24 12:05:40 run1,line: 228    ERROR | Unexpected error in image processing thread: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imread'
+> Overload resolution failed:
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+
+2025/03/24 12:05:40 run1,line: 138     INFO | Processing image: ['r_5_7', '12:05:19 24/03/2025', 'image_processor']
+2025/03/24 12:05:40 run1,line: 228    ERROR | Unexpected error in image processing thread: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imread'
+> Overload resolution failed:
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+
+2025/03/24 12:05:40 run1,line: 138     INFO | Processing image: ['r_6_1', '12:05:19 24/03/2025', 'image_processor']
+2025/03/24 12:05:40 run1,line: 228    ERROR | Unexpected error in image processing thread: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imread'
+> Overload resolution failed:
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+
+2025/03/24 12:05:40 run1,line: 138     INFO | Processing image: ['r_b2_3', '12:05:20 24/03/2025', 'image_processor']
+2025/03/24 12:05:40 run1,line: 228    ERROR | Unexpected error in image processing thread: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imread'
+> Overload resolution failed:
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+
+2025/03/24 12:05:40 run1,line: 138     INFO | Processing image: ['l_7_1', '12:05:21 24/03/2025', 'image_processor']
+2025/03/24 12:05:40 run1,line: 228    ERROR | Unexpected error in image processing thread: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imread'
+> Overload resolution failed:
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+
+2025/03/24 12:05:40 run1,line: 138     INFO | Processing image: ['r_8_6', '12:05:22 24/03/2025', 'image_processor']
+2025/03/24 12:05:40 run1,line: 228    ERROR | Unexpected error in image processing thread: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imread'
+> Overload resolution failed:
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+
+2025/03/24 12:05:40 run1,line: 138     INFO | Processing image: ['r_b3_2', '12:05:22 24/03/2025', 'image_processor']
+2025/03/24 12:05:40 run1,line: 228    ERROR | Unexpected error in image processing thread: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imread'
+> Overload resolution failed:
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+
+2025/03/24 12:05:40 run1,line: 138     INFO | Processing image: ['r_b3_4', '12:05:23 24/03/2025', 'image_processor']
+2025/03/24 12:05:40 run1,line: 228    ERROR | Unexpected error in image processing thread: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imread'
+> Overload resolution failed:
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+
+2025/03/24 12:05:40 run1,line: 138     INFO | Processing image: ['l_9_1', '12:05:24 24/03/2025', 'image_processor']
+2025/03/24 12:05:40 run1,line: 228    ERROR | Unexpected error in image processing thread: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imread'
+> Overload resolution failed:
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+
+2025/03/24 12:05:40 run1,line: 138     INFO | Processing image: ['r_9_4', '12:05:24 24/03/2025', 'image_processor']
+2025/03/24 12:05:40 run1,line: 228    ERROR | Unexpected error in image processing thread: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imread'
+> Overload resolution failed:
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+
+2025/03/24 12:05:40 run1,line: 138     INFO | Processing image: ['r_9_2', '12:05:25 24/03/2025', 'image_processor']
+2025/03/24 12:05:40 run1,line: 228    ERROR | Unexpected error in image processing thread: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imread'
+> Overload resolution failed:
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+
+2025/03/24 12:05:40 run1,line: 138     INFO | Processing image: ['r_b4_1', '12:05:27 24/03/2025', 'image_processor']
+2025/03/24 12:05:40 run1,line: 228    ERROR | Unexpected error in image processing thread: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imread'
+> Overload resolution failed:
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+
+2025/03/24 12:05:40 run1,line: 138     INFO | Processing image: ['r_6_2', '12:05:28 24/03/2025', 'image_processor']
+2025/03/24 12:05:40 run1,line: 228    ERROR | Unexpected error in image processing thread: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imread'
+> Overload resolution failed:
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+
+2025/03/24 12:05:40 run1,line: 138     INFO | Processing image: ['l_11_6', '12:05:31 24/03/2025', 'image_processor']
+2025/03/24 12:05:40 run1,line: 228    ERROR | Unexpected error in image processing thread: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imread'
+> Overload resolution failed:
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+
+2025/03/24 12:05:40 run1,line: 138     INFO | Processing image: ['r_11_4', '12:05:32 24/03/2025', 'image_processor']
+2025/03/24 12:05:40 run1,line: 228    ERROR | Unexpected error in image processing thread: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imread'
+> Overload resolution failed:
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+
+2025/03/24 12:05:40 run1,line: 138     INFO | Processing image: ['r_5_1', '12:05:32 24/03/2025', 'image_processor']
+2025/03/24 12:05:40 run1,line: 228    ERROR | Unexpected error in image processing thread: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imread'
+> Overload resolution failed:
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+
+2025/03/24 12:05:40 run1,line: 138     INFO | Processing image: ['r_11_1', '12:05:33 24/03/2025', 'image_processor']
+2025/03/24 12:05:40 run1,line: 228    ERROR | Unexpected error in image processing thread: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imread'
+> Overload resolution failed:
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+
+2025/03/24 14:15:41 save_log,line: 18     INFO | +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+2025/03/24 14:15:41 save_log,line: 19     INFO | Logger object created successfully..
+2025/03/24 14:15:41 save_log,line: 18     INFO | +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+2025/03/24 14:15:41 save_log,line: 19     INFO | Logger object created successfully..
+2025/03/24 14:15:41 run1,line: 76     INFO | Starting image monitor for directory: ./input_images/
+2025/03/24 14:15:41 run1,line: 91     INFO | New image detected: class.jpg
+2025/03/24 14:15:41 run1,line: 105     INFO | Starting image processing thread...
+2025/03/24 14:15:41 run1,line: 320     INFO | Application started. Press 'q' to exit.
+2025/03/24 14:15:41 run1,line: 35     INFO | Initial state - Folders: 116, Files: 504
+2025/03/24 14:20:31 run1,line: 138     INFO | Processing image: ./input_images/class.jpg
+2025/03/24 14:21:13 run1,line: 165     INFO | Processed image saved to: ./output_images/processed_class.jpg
+2025/03/24 14:21:13 run1,line: 196     INFO | Statistics saved to: ./output_images/statistics_class.jpg.csv
+2025/03/24 14:21:19 run1,line: 217     INFO | Total faces detected: 83, Recognized faces: 70, Detection rate: 84.34%, Average recognition score: 0.70
+2025/03/24 14:21:19 run1,line: 138     INFO | Processing image: ['r_b1_2', '14:20:32 24/03/2025', 'image_processor']
+2025/03/24 14:21:19 run1,line: 228    ERROR | Unexpected error in image processing thread: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imread'
+> Overload resolution failed:
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+
+2025/03/24 14:21:19 run1,line: 138     INFO | Processing image: ['r_b1_1', '14:20:33 24/03/2025', 'image_processor']
+2025/03/24 14:21:19 run1,line: 228    ERROR | Unexpected error in image processing thread: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imread'
+> Overload resolution failed:
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+
+2025/03/24 14:21:19 run1,line: 138     INFO | Processing image: ['r_b2_1', '14:20:34 24/03/2025', 'image_processor']
+2025/03/24 14:21:19 run1,line: 228    ERROR | Unexpected error in image processing thread: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imread'
+> Overload resolution failed:
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+
+2025/03/24 14:21:19 run1,line: 138     INFO | Processing image: ['r_b3_1', '14:20:34 24/03/2025', 'image_processor']
+2025/03/24 14:21:19 run1,line: 228    ERROR | Unexpected error in image processing thread: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imread'
+> Overload resolution failed:
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+
+2025/03/24 14:21:19 run1,line: 138     INFO | Processing image: ['r_b2_4', '14:20:35 24/03/2025', 'image_processor']
+2025/03/24 14:21:19 run1,line: 228    ERROR | Unexpected error in image processing thread: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imread'
+> Overload resolution failed:
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+
+2025/03/24 14:21:19 run1,line: 138     INFO | Processing image: ['r_b2_2', '14:20:36 24/03/2025', 'image_processor']
+2025/03/24 14:21:19 run1,line: 228    ERROR | Unexpected error in image processing thread: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imread'
+> Overload resolution failed:
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+
+2025/03/24 14:21:19 run1,line: 138     INFO | Processing image: ['r_b3_2', '14:20:36 24/03/2025', 'image_processor']
+2025/03/24 14:21:19 run1,line: 228    ERROR | Unexpected error in image processing thread: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imread'
+> Overload resolution failed:
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+
+2025/03/24 14:21:19 run1,line: 138     INFO | Processing image: ['l_3_2', '14:20:37 24/03/2025', 'image_processor']
+2025/03/24 14:21:19 run1,line: 228    ERROR | Unexpected error in image processing thread: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imread'
+> Overload resolution failed:
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+
+2025/03/24 14:21:19 run1,line: 138     INFO | Processing image: ['l_2_2', '14:20:38 24/03/2025', 'image_processor']
+2025/03/24 14:21:19 run1,line: 228    ERROR | Unexpected error in image processing thread: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imread'
+> Overload resolution failed:
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+
+2025/03/24 14:21:19 run1,line: 138     INFO | Processing image: ['l_4_3', '14:20:38 24/03/2025', 'image_processor']
+2025/03/24 14:21:19 run1,line: 228    ERROR | Unexpected error in image processing thread: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imread'
+> Overload resolution failed:
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+
+2025/03/24 14:21:19 run1,line: 138     INFO | Processing image: ['l_3_3', '14:20:40 24/03/2025', 'image_processor']
+2025/03/24 14:21:19 run1,line: 228    ERROR | Unexpected error in image processing thread: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imread'
+> Overload resolution failed:
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+
+2025/03/24 14:21:19 run1,line: 138     INFO | Processing image: ['r_b3_3', '14:20:41 24/03/2025', 'image_processor']
+2025/03/24 14:21:19 run1,line: 228    ERROR | Unexpected error in image processing thread: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imread'
+> Overload resolution failed:
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+
+2025/03/24 14:21:19 run1,line: 138     INFO | Processing image: ['l_4_4', '14:20:41 24/03/2025', 'image_processor']
+2025/03/24 14:21:19 run1,line: 228    ERROR | Unexpected error in image processing thread: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imread'
+> Overload resolution failed:
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+
+2025/03/24 14:21:19 run1,line: 138     INFO | Processing image: ['l_4_2', '14:20:42 24/03/2025', 'image_processor']
+2025/03/24 14:21:19 run1,line: 228    ERROR | Unexpected error in image processing thread: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imread'
+> Overload resolution failed:
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+
+2025/03/24 14:21:19 run1,line: 138     INFO | Processing image: ['l_3_4', '14:20:43 24/03/2025', 'image_processor']
+2025/03/24 14:21:19 run1,line: 228    ERROR | Unexpected error in image processing thread: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imread'
+> Overload resolution failed:
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+
+2025/03/24 14:21:19 run1,line: 138     INFO | Processing image: ['l_3_1', '14:20:43 24/03/2025', 'image_processor']
+2025/03/24 14:21:19 run1,line: 228    ERROR | Unexpected error in image processing thread: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imread'
+> Overload resolution failed:
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+
+2025/03/24 14:21:19 run1,line: 138     INFO | Processing image: ['r_b3_4', '14:20:44 24/03/2025', 'image_processor']
+2025/03/24 14:21:19 run1,line: 228    ERROR | Unexpected error in image processing thread: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imread'
+> Overload resolution failed:
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+
+2025/03/24 14:21:19 run1,line: 138     INFO | Processing image: ['l_6_3', '14:20:45 24/03/2025', 'image_processor']
+2025/03/24 14:21:19 run1,line: 228    ERROR | Unexpected error in image processing thread: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imread'
+> Overload resolution failed:
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+
+2025/03/24 14:21:19 run1,line: 138     INFO | Processing image: ['l_5_5', '14:20:45 24/03/2025', 'image_processor']
+2025/03/24 14:21:19 run1,line: 228    ERROR | Unexpected error in image processing thread: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imread'
+> Overload resolution failed:
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+
+2025/03/24 14:21:19 run1,line: 138     INFO | Processing image: ['l_5_6', '14:20:46 24/03/2025', 'image_processor']
+2025/03/24 14:21:19 run1,line: 228    ERROR | Unexpected error in image processing thread: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imread'
+> Overload resolution failed:
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+
+2025/03/24 14:21:19 run1,line: 138     INFO | Processing image: ['r_b4_2', '14:20:47 24/03/2025', 'image_processor']
+2025/03/24 14:21:19 run1,line: 228    ERROR | Unexpected error in image processing thread: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imread'
+> Overload resolution failed:
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+
+2025/03/24 14:21:19 run1,line: 138     INFO | Processing image: ['r_5_6', '14:20:47 24/03/2025', 'image_processor']
+2025/03/24 14:21:19 run1,line: 228    ERROR | Unexpected error in image processing thread: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imread'
+> Overload resolution failed:
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+
+2025/03/24 14:21:19 run1,line: 138     INFO | Processing image: ['r_5_7', '14:20:48 24/03/2025', 'image_processor']
+2025/03/24 14:21:19 run1,line: 228    ERROR | Unexpected error in image processing thread: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imread'
+> Overload resolution failed:
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+
+2025/03/24 14:21:19 run1,line: 138     INFO | Processing image: ['r_5_3', '14:20:48 24/03/2025', 'image_processor']
+2025/03/24 14:21:19 run1,line: 228    ERROR | Unexpected error in image processing thread: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imread'
+> Overload resolution failed:
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+
+2025/03/24 14:21:19 run1,line: 138     INFO | Processing image: ['r_7_3', '14:20:49 24/03/2025', 'image_processor']
+2025/03/24 14:21:19 run1,line: 228    ERROR | Unexpected error in image processing thread: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imread'
+> Overload resolution failed:
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+
+2025/03/24 14:21:19 run1,line: 138     INFO | Processing image: ['l_6_4', '14:20:50 24/03/2025', 'image_processor']
+2025/03/24 14:21:19 run1,line: 228    ERROR | Unexpected error in image processing thread: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imread'
+> Overload resolution failed:
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+
+2025/03/24 14:21:19 run1,line: 138     INFO | Processing image: ['r_5_5', '14:20:50 24/03/2025', 'image_processor']
+2025/03/24 14:21:19 run1,line: 228    ERROR | Unexpected error in image processing thread: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imread'
+> Overload resolution failed:
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+
+2025/03/24 14:21:19 run1,line: 138     INFO | Processing image: ['r_7_6', '14:20:51 24/03/2025', 'image_processor']
+2025/03/24 14:21:19 run1,line: 228    ERROR | Unexpected error in image processing thread: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imread'
+> Overload resolution failed:
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+
+2025/03/24 14:21:19 run1,line: 138     INFO | Processing image: ['r_6_1', '14:20:52 24/03/2025', 'image_processor']
+2025/03/24 14:21:19 run1,line: 228    ERROR | Unexpected error in image processing thread: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imread'
+> Overload resolution failed:
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+
+2025/03/24 14:21:19 run1,line: 138     INFO | Processing image: ['r_b4_1', '14:20:52 24/03/2025', 'image_processor']
+2025/03/24 14:21:19 run1,line: 228    ERROR | Unexpected error in image processing thread: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imread'
+> Overload resolution failed:
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+
+2025/03/24 14:21:19 run1,line: 138     INFO | Processing image: ['r_b4_4', '14:20:53 24/03/2025', 'image_processor']
+2025/03/24 14:21:19 run1,line: 228    ERROR | Unexpected error in image processing thread: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imread'
+> Overload resolution failed:
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+
+2025/03/24 14:21:19 run1,line: 138     INFO | Processing image: ['l_4_1', '14:20:53 24/03/2025', 'image_processor']
+2025/03/24 14:21:19 run1,line: 228    ERROR | Unexpected error in image processing thread: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imread'
+> Overload resolution failed:
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+
+2025/03/24 14:21:19 run1,line: 138     INFO | Processing image: ['l_4_6', '14:20:54 24/03/2025', 'image_processor']
+2025/03/24 14:21:19 run1,line: 228    ERROR | Unexpected error in image processing thread: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imread'
+> Overload resolution failed:
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+
+2025/03/24 14:21:19 run1,line: 138     INFO | Processing image: ['l_8_2', '14:20:54 24/03/2025', 'image_processor']
+2025/03/24 14:21:19 run1,line: 228    ERROR | Unexpected error in image processing thread: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imread'
+> Overload resolution failed:
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+
+2025/03/24 14:21:19 run1,line: 138     INFO | Processing image: ['r_7_4', '14:20:55 24/03/2025', 'image_processor']
+2025/03/24 14:21:19 run1,line: 228    ERROR | Unexpected error in image processing thread: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imread'
+> Overload resolution failed:
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+
+2025/03/24 14:21:19 run1,line: 138     INFO | Processing image: ['l_4_5', '14:20:55 24/03/2025', 'image_processor']
+2025/03/24 14:21:19 run1,line: 228    ERROR | Unexpected error in image processing thread: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imread'
+> Overload resolution failed:
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+
+2025/03/24 14:21:19 run1,line: 138     INFO | Processing image: ['l_7_3', '14:20:56 24/03/2025', 'image_processor']
+2025/03/24 14:21:19 run1,line: 228    ERROR | Unexpected error in image processing thread: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imread'
+> Overload resolution failed:
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+
+2025/03/24 14:21:19 run1,line: 138     INFO | Processing image: ['r_5_1', '14:20:56 24/03/2025', 'image_processor']
+2025/03/24 14:21:19 run1,line: 228    ERROR | Unexpected error in image processing thread: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imread'
+> Overload resolution failed:
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+
+2025/03/24 14:21:19 run1,line: 138     INFO | Processing image: ['r_6_6', '14:20:57 24/03/2025', 'image_processor']
+2025/03/24 14:21:19 run1,line: 228    ERROR | Unexpected error in image processing thread: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imread'
+> Overload resolution failed:
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+
+2025/03/24 14:21:19 run1,line: 138     INFO | Processing image: ['l_8_4', '14:20:57 24/03/2025', 'image_processor']
+2025/03/24 14:21:19 run1,line: 228    ERROR | Unexpected error in image processing thread: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imread'
+> Overload resolution failed:
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+
+2025/03/24 14:21:19 run1,line: 138     INFO | Processing image: ['l_6_6', '14:20:58 24/03/2025', 'image_processor']
+2025/03/24 14:21:19 run1,line: 228    ERROR | Unexpected error in image processing thread: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imread'
+> Overload resolution failed:
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+
+2025/03/24 14:21:19 run1,line: 138     INFO | Processing image: ['r_b4_3', '14:20:58 24/03/2025', 'image_processor']
+2025/03/24 14:21:19 run1,line: 228    ERROR | Unexpected error in image processing thread: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imread'
+> Overload resolution failed:
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+
+2025/03/24 14:21:19 run1,line: 138     INFO | Processing image: ['l_6_7', '14:20:59 24/03/2025', 'image_processor']
+2025/03/24 14:21:19 run1,line: 228    ERROR | Unexpected error in image processing thread: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imread'
+> Overload resolution failed:
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+
+2025/03/24 14:21:19 run1,line: 138     INFO | Processing image: ['r_5_4', '14:20:59 24/03/2025', 'image_processor']
+2025/03/24 14:21:19 run1,line: 228    ERROR | Unexpected error in image processing thread: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imread'
+> Overload resolution failed:
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+
+2025/03/24 14:21:19 run1,line: 138     INFO | Processing image: ['r_b4_5', '14:21:00 24/03/2025', 'image_processor']
+2025/03/24 14:21:19 run1,line: 228    ERROR | Unexpected error in image processing thread: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imread'
+> Overload resolution failed:
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+
+2025/03/24 14:21:19 run1,line: 138     INFO | Processing image: ['l_8_5', '14:21:01 24/03/2025', 'image_processor']
+2025/03/24 14:21:19 run1,line: 228    ERROR | Unexpected error in image processing thread: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imread'
+> Overload resolution failed:
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+
+2025/03/24 14:21:19 run1,line: 138     INFO | Processing image: ['l_7_1', '14:21:01 24/03/2025', 'image_processor']
+2025/03/24 14:21:19 run1,line: 228    ERROR | Unexpected error in image processing thread: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imread'
+> Overload resolution failed:
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+
+2025/03/24 14:21:19 run1,line: 138     INFO | Processing image: ['r_6_5', '14:21:02 24/03/2025', 'image_processor']
+2025/03/24 14:21:19 run1,line: 228    ERROR | Unexpected error in image processing thread: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imread'
+> Overload resolution failed:
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+
+2025/03/24 14:21:19 run1,line: 138     INFO | Processing image: ['r_11_1', '14:21:02 24/03/2025', 'image_processor']
+2025/03/24 14:21:19 run1,line: 228    ERROR | Unexpected error in image processing thread: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imread'
+> Overload resolution failed:
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+
+2025/03/24 14:21:19 run1,line: 138     INFO | Processing image: ['l_5_2', '14:21:03 24/03/2025', 'image_processor']
+2025/03/24 14:21:19 run1,line: 228    ERROR | Unexpected error in image processing thread: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imread'
+> Overload resolution failed:
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+
+2025/03/24 14:21:19 run1,line: 138     INFO | Processing image: ['l_6_2', '14:21:03 24/03/2025', 'image_processor']
+2025/03/24 14:21:19 run1,line: 228    ERROR | Unexpected error in image processing thread: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imread'
+> Overload resolution failed:
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+
+2025/03/24 14:21:19 run1,line: 138     INFO | Processing image: ['r_9_4', '14:21:04 24/03/2025', 'image_processor']
+2025/03/24 14:21:19 run1,line: 228    ERROR | Unexpected error in image processing thread: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imread'
+> Overload resolution failed:
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+
+2025/03/24 14:21:19 run1,line: 138     INFO | Processing image: ['l_8_1', '14:21:05 24/03/2025', 'image_processor']
+2025/03/24 14:21:19 run1,line: 228    ERROR | Unexpected error in image processing thread: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imread'
+> Overload resolution failed:
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+
+2025/03/24 14:21:19 run1,line: 138     INFO | Processing image: ['l_10_7', '14:21:05 24/03/2025', 'image_processor']
+2025/03/24 14:21:19 run1,line: 228    ERROR | Unexpected error in image processing thread: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imread'
+> Overload resolution failed:
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+
+2025/03/24 14:21:19 run1,line: 138     INFO | Processing image: ['l_5_3', '14:21:06 24/03/2025', 'image_processor']
+2025/03/24 14:21:19 run1,line: 228    ERROR | Unexpected error in image processing thread: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imread'
+> Overload resolution failed:
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+
+2025/03/24 14:21:19 run1,line: 138     INFO | Processing image: ['r_6_4', '14:21:06 24/03/2025', 'image_processor']
+2025/03/24 14:21:19 run1,line: 228    ERROR | Unexpected error in image processing thread: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imread'
+> Overload resolution failed:
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+
+2025/03/24 14:21:19 run1,line: 138     INFO | Processing image: ['r_b4_6', '14:21:07 24/03/2025', 'image_processor']
+2025/03/24 14:21:19 run1,line: 228    ERROR | Unexpected error in image processing thread: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imread'
+> Overload resolution failed:
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+
+2025/03/24 14:21:19 run1,line: 138     INFO | Processing image: ['l_9_5', '14:21:07 24/03/2025', 'image_processor']
+2025/03/24 14:21:19 run1,line: 228    ERROR | Unexpected error in image processing thread: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imread'
+> Overload resolution failed:
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+
+2025/03/24 14:21:19 run1,line: 138     INFO | Processing image: ['l_8_3', '14:21:08 24/03/2025', 'image_processor']
+2025/03/24 14:21:19 run1,line: 228    ERROR | Unexpected error in image processing thread: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imread'
+> Overload resolution failed:
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+
+2025/03/24 14:21:19 run1,line: 138     INFO | Processing image: ['r_9_3', '14:21:08 24/03/2025', 'image_processor']
+2025/03/24 14:21:19 run1,line: 228    ERROR | Unexpected error in image processing thread: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imread'
+> Overload resolution failed:
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+
+2025/03/24 14:21:19 run1,line: 138     INFO | Processing image: ['l_11_6', '14:21:11 24/03/2025', 'image_processor']
+2025/03/24 14:21:19 run1,line: 228    ERROR | Unexpected error in image processing thread: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imread'
+> Overload resolution failed:
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+
+2025/03/24 14:21:19 run1,line: 138     INFO | Processing image: ['l_10_1', '14:21:12 24/03/2025', 'image_processor']
+2025/03/24 14:21:19 run1,line: 228    ERROR | Unexpected error in image processing thread: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imread'
+> Overload resolution failed:
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+
+2025/03/24 14:21:19 run1,line: 138     INFO | Processing image: ['r_6_3', '14:21:13 24/03/2025', 'image_processor']
+2025/03/24 14:21:19 run1,line: 228    ERROR | Unexpected error in image processing thread: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imread'
+> Overload resolution failed:
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+
+2025/03/24 14:26:01 run1,line: 41     INFO | Directory change detected!
+2025/03/24 14:26:01 run1,line: 42     INFO | Previous state - Folders: 116, Files: 504
+2025/03/24 14:26:01 run1,line: 43     INFO | Current state - Folders: 116, Files: 505
+2025/03/24 14:26:01 run1,line: 46     INFO | Starting model reload and target building process...
+2025/03/24 14:26:02 run1,line: 49     INFO | Model loaded successfully
+2025/03/24 14:27:26 run1,line: 233     INFO | Image processing thread stopped and models released.
+2025/03/24 14:31:17 run1,line: 52     INFO | Built targets successfully. Total targets: 407
+2025/03/24 14:31:17 run1,line: 56     INFO | New targets added to queue
+2025/03/24 14:31:17 run1,line: 61     INFO | GPU memory cleared
+2025/03/24 14:31:22 run1,line: 338     INFO | Application has been terminated gracefully.
